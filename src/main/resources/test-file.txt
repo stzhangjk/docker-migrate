@@ -1,0 +1,2 @@
+这是测试读取的文件。
+Balabalabalalabalbalblablablbabla
